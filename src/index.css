@@ -130,8 +130,8 @@ table {
 
 @font-face {
     font-family: "Tan Mon Cheri";
-    src: url("tan-mon-cheri.woff") format("woff2"),
-        url("tan-mon-cheri.woff2") format("woff");
+    src: url("./assets/tan-mon-cheri.woff") format("woff2"),
+        url("./assets/tan-mon-cheri.woff2") format("woff");
 }
 
 a {
